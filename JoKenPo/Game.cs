@@ -5,6 +5,7 @@ namespace JoKenPo
 {
     class Game
     {
+        
         // Enumeração responsavel pelo resultado da partida
         public enum Resultado
         {
