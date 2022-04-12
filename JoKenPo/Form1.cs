@@ -66,7 +66,6 @@ namespace JoKenPo
 
                     pictureBox1.Image = jogo.ImgJogador;
                     pictureBox2.Image = jogo.ImgPC;
-
                     break;
             }
         }
